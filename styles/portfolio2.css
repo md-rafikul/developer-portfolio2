@@ -1,0 +1,285 @@
+* {
+    margin: 0;
+    font-family: Work Sans;
+}
+
+/* header styles no touch any things */
+
+.btn-primary {
+    color: #1B77C1;
+    font-weight: 300;
+    font-size: 20px;
+    border: 0;
+    margin-top: 30px;
+    padding: 18px 35px;
+    width: 180px;
+    height: 64px;
+    border-radius: 5px;
+    background: #FFFFFF;
+}
+
+.header {
+    width: 1600px;
+    height: 808px;
+    background-image: url("../images/banner/banner3.png");
+    background-repeat: no-repeat;
+
+
+
+}
+
+
+
+
+.banner {
+    display: flex;
+    text-align: right;
+    margin: 0 200px;
+    padding-top: 230px;
+    padding-left: 630px;
+}
+
+/* banner styles */
+
+.banner-title {
+    width: 525px;
+    height: 228px;
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 65px;
+
+
+}
+
+
+
+.banner-description {
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 16px;
+    width: 525px;
+
+}
+
+/* header styles complete */
+
+main {
+    margin: 0 auto;
+}
+
+/* about section styles */
+.about {
+    display: flex;
+    width: 1072px;
+    height: 723px;
+    padding: 0px 322px 0px 100px;
+
+    margin-top: 150px;
+
+}
+
+.about-container {
+    padding-top: 270px;
+    text-align: left;
+}
+
+
+.about-pic {
+    width: 569px;
+
+}
+
+.section-title3 {
+    width: 288px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin-bottom: 24px;
+
+}
+
+.about-description {
+    width: 316px;
+    height: 104px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+
+}
+
+.about-info {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+
+
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 22px;
+
+}
+
+.img {
+    width: 15px;
+    height: 15px;
+    padding-right: 7px;
+}
+
+
+
+/* about section styles complete */
+
+
+/* my plans styles */
+
+.section-title {
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+
+    margin-top: 150px;
+}
+
+.skills-container {
+    padding-left: 260px;
+    padding-right: 229px;
+    display: flex;
+    gap: 24px;
+}
+
+.skill {
+    background: #FFFFFF;
+    box-shadow: 0px, 6px rgba(0, 0, 0, 0.06);
+    border-radius: 50px;
+    padding: 30px;
+}
+
+.skill-title {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+
+}
+
+.skill-description {
+    color: #757575;
+}
+
+/* my plans styles close */
+
+
+
+/* inspiration style */
+.inspiration-style {
+    margin-left: 230px;
+    width: 1141px;
+    height: 300px;
+
+    background-image: linear-gradient(to left, #005fac30, rgba(6, 0, 172, 0.719)), url(../images/watch.png);
+
+    background-repeat: no-repeat;
+    padding-left: 64px;
+    padding-top: 58px;
+    border: 5px solid totato;
+    background-size: cover;
+    margin-top: 150px;
+
+
+
+
+}
+
+.inspiration-title {
+
+    width: 459px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+
+
+}
+
+/* contact styles no touch below*/
+
+
+.contact {
+
+    display: flex;
+    gap: 100px;
+    background: #151414;
+    padding: 130px 200px;
+    width: 1600px;
+    height: 577px;
+    margin-right: 200px;
+    padding-top: 130px;
+    margin-top: 150px;
+
+}
+
+.section-title1 {
+    font-family: Work Sans;
+    font-style: Bold;
+    font-size: 45px;
+    text-align: left;
+    font-weight: 700;
+    color: #F8F8F8;
+}
+
+.section-title2 {
+    margin-bottom: 37px;
+    font-family: Work Sans;
+    font-style: Bold;
+    font-size: 25px;
+    text-align: left;
+    font-weight: 600;
+    color: #FFFFFF;
+}
+
+
+
+input {
+    height: 64px;
+
+}
+
+.contact a {
+    text-decoration: none;
+}
+
+.section-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.contact input[type="email"] {
+    margin-bottom: 16px;
+    border: 20px;
+    width: 100px;
+    height: 14px;
+    padding: 21px 156px 22px 21px;
+    border-radius: 5px;
+
+}
+
+.sub-contact2 {
+    padding: 25px 207px 241px 57px;
+}
+
+.sub-contact1 {
+    padding: 25px 73px 34px 41px;
+}
+
+.btn-styles {
+    color: #FFFFFF;
+    width: 100px;
+    background-color: #1573BF;
+    border-radius: 8px;
+}
